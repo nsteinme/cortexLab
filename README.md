@@ -1,5 +1,5 @@
 # cortexLab
-Shared Matlab code for the [Cortical Processing Laboratory](www.cortexlab.net) at UCL; may also be useful to others.
+Shared Matlab code for the [Cortical Processing Laboratory](http://www.cortexlab.net) at UCL; may also be useful to others.
 
 See also [phy](www.github.com/kwikteam/phy) for shared python code. 
 
